@@ -17,6 +17,5 @@ public class Strex{
        for(char c:a.toCharArray()){
         System.out.print(c+" ");
        }
-
     }
 }
